@@ -14,10 +14,11 @@
 </p>
     </td>
 
-<p align="center">
+    <td valign="top">
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbbasSrour&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
 </p>
-    <td valign="top">
     </td>
   </tr>
 </table>
