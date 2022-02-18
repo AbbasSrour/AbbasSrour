@@ -1,6 +1,5 @@
 <table>
   <tr>
-    <td valign="top">
 <p align="left">
  Hi there 👋
 - 🔭 I’m currently working on ... <br>
@@ -12,14 +11,10 @@
 - 😄 Pronouns: ... <br>
 - ⚡ Fun fact: ... <br>
 </p>
-    </td>
 
-    <td valign="top">
-
-<p align="left">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=AbbasSrour&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
 </p>
-    </td>
   </tr>
 </table>
 
