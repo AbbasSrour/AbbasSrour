@@ -11,8 +11,9 @@
 - 😄 Pronouns: ... <br>
 - ⚡ Fun fact: ... <br>
 </p>
-
-<p align="right">
+  </tr>
+  <tr>
+    <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=AbbasSrour&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=edacfc" />
 </p>
   </tr>
