@@ -1,7 +1,5 @@
 <!-- [![MasterHead](https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif)](https://abbassrour.ml) -->
-
-<img align="center" alt"banner" width="1000" src="https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif"/>
-
+<a href="https://abbassrour.ml"><img align="center" alt="banner" width="1000" src="https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif"/></a>
 <h1 align="center">Hi 👋, I'm Abbas Srour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
