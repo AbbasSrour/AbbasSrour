@@ -1,4 +1,6 @@
+<div align="center">
 [![MasterHead](https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif)](https://abbassrour.ml)
+</div>
 <h1 align="center">Hi 👋, I'm Abbas Srour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
@@ -23,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mshabbassrour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mshabbassrour" height="30" width="40" /></a>
+<a href="https://twitter.com/@mshabbassr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mshabbassrour" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbas srour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas srour" height="30" width="40" /></a>
 <a href="https://fb.com/abbas srour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbas srour" height="30" width="40" /></a>
 <a href="https://instagram.com/abbas srour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbas srour" height="30" width="40" /></a>
