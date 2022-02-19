@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif)]
 <h1 align="center">Hi 👋, I'm Abbas Srour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
