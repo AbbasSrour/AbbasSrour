@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abbas Srour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassrour&label=Profile%20views&color=0e75b6&style=flat" alt="abbassrour" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbassrour" alt="abbassrour" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbassrour" alt="abbassrour" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/@mshabbassrour" target="blank"><img src="https://img.shields.io/twitter/follow/@mshabbassrour?logo=twitter&style=for-the-badge" alt="@mshabbassrour" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mshabbassr" target="blank"><img src="https://img.shields.io/twitter/follow/@mshabbassrour?logo=twitter&style=for-the-badge" alt="@mshabbassrour" /></a> </p>
 
 - 🔭 I’m currently working on **my Portfolio**
 
@@ -85,5 +86,4 @@
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 <!-- <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" /> -->
-</p>
--->
+<!-- </p> -->
