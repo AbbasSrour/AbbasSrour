@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif)](https://abbassrour.ml) -->
 
-<img align="center" alt"banner" with="1000" src="https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif"/>
+<img align="center" alt"banner" width="1000" src="https://raw.githubusercontent.com/owntheweb/discord-animated-welcome-bot/master/img/welcome.gif"/>
 
 <h1 align="center">Hi 👋, I'm Abbas Srour</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
