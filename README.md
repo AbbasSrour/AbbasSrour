@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on **Galoper**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Fastapi And Kotlin**
 
 - 👨‍💻 All of my projects are available at [abbassrour.ml](abbassrour.ml)
 
-- 💬 Ask me about **React/Express/Typescript**
+- 💬 Ask me about **Express/React/Go**
 
 - 📫 How to reach me **abbas.mj.srour@gmail.com**
 
