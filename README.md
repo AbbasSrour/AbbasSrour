@@ -52,44 +52,27 @@
 <!-- ////////////////////////////////////////  Stats Section \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ !-->            
 <h2><b> </b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/><b> Github Stats</b></h2>
 
+<!-- Commits and PRs -->
 <p align="center">
-<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbassrour&" alt="abbassrour" />
-<img width="48.4%" src="https://github-readme-stats.vercel.app/api?username=abbassrour&show_icons=true&locale=en" alt="abbassrour" />
+<img width="50.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbassrour&" alt="abbassrour" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abbassrour&show_icons=true&locale=en" alt="abbassrour" />
 </p>
 
+<!-- Languages -->
+<h2 align="left"><b> </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Stack</b></h2>
 <p>
-<img width="32.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbbasSrour&theme=nord_bright">
-<img width="32.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbbasSrour&theme=nord_bright">
-<img width="32.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbbasSrour&theme=nord_bright">
-</p>
-
-<p>
-<img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbassrour&show_icons=true&locale=en&layout=default" alt="abbassrour" />
-<img width="63%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbbasSrour&layout=compact"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbassrour&show_icons=true&langs_count=10" alt="abbassrour" />
+<img width="63.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbbasSrour&layout=compact"/>
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbbasSrour)](https://github.com/anuraghazra/github-readme-stats) !-->
 </p>
 
-<table>
-<tr>
-<td>
 
-[![AbbasSrour's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbbasSrour&hide_border=false&area_color=5D3FD3&bg_color=ffffff&color=000000&line=1F51FF&point=7F00FF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Commits -->
+<h2 align="left"><b> </b><img src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47zmi06im79u2553k5ici1wqtdposa8a2ye2sr1bes&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"><b> Commit History </b></h2>
+<img style="border-radius: 8px;" width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbbasSrour&hide_border=false&area_color=5D3FD3&bg_color=ffffff&color=000000&line=1F51FF&point=7F00FF&area=true"/>
 
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td width="100%">
-
-<img width="100%" src="https://raw.githubusercontent.com/AbbasSrour/AbbasSrour/output/github-contribution-grid-snake.svg" />
-
-</td>
-</tr>
-</table>
-
-<h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'/></h3>
+<!-- ////////////////////////////////////////  Footer Section \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ !-->            
+<h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎
+𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'/></h3>
 
 ![footer](images/footer.webp)
